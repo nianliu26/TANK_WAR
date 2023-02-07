@@ -1,0 +1,11 @@
+debug/TANKDATA.o
+debug/gamewidget.o
+debug/main.o
+debug/npctank.o
+debug/playertank.o
+debug/shellunit.o
+debug/tankmap.o
+debug/widget.o
+debug/qrc_res.o
+debug/moc_gamewidget.o
+debug/moc_widget.o

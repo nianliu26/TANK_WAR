@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/1_1.png</file>
+        <file>img/enemy1D.png</file>
+        <file>img/enemy1L.png</file>
+        <file>img/enemy1R.png</file>
+        <file>img/enemy1U.png</file>
+        <file>img/enemy2D.png</file>
+        <file>img/enemy2L.png</file>
+        <file>img/enemy2R.png</file>
+        <file>img/enemy2U.png</file>
+        <file>img/enemy3D.png</file>
+        <file>img/enemy3L.png</file>
+        <file>img/enemy3R.png</file>
+        <file>img/enemy3U.png</file>
+        <file>img/p1tankD.png</file>
+        <file>img/p1tankL.png</file>
+        <file>img/p1tankR.png</file>
+        <file>img/p1tankU.png</file>
+        <file>img/loading.gif</file>
+    </qresource>
+</RCC>

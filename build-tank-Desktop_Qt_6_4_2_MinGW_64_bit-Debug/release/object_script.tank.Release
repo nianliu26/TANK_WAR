@@ -1,0 +1,11 @@
+release/TANKDATA.o
+release/gamewidget.o
+release/main.o
+release/npctank.o
+release/playertank.o
+release/shellunit.o
+release/tankmap.o
+release/widget.o
+release/qrc_res.o
+release/moc_gamewidget.o
+release/moc_widget.o
